@@ -8,7 +8,7 @@ Vamos a elegir TS-1277-64G NAS 12 Bahías – AMD Ryzen 7 1700 64GB de RAM con u
 
 [Enlace a TS-1277-64G](https://qloudea.com/qnap-ts-1277-1700-64g)
 
-![imagen](https://github.com/mati3/Ejercicios-IV/tree/master/Imagenes/qnap.png)
+![imagen](Imagenes/qnap.png)
 
 El coste de amortización para equipos para tratamiento de la información es del 25% con un mínimo de cuatro años y un máximo de 8.
 Vamos a aplicar una amortización lineal donde las cuotas son constantes y no afecta la depreciación efectiva del inmoviliario. De esta forma:
@@ -87,7 +87,7 @@ KVM acceleration can be used
 
 El hipervisor será VirtualBox, Versión 5.2.18 r124319 (Qt5.9.5).
 
-![imagen](https://github.com/mati3/Ejercicios-IV/tree/master/Imagenes/virtual-box.png)
+![imagen](Imagenes/virtual-box.png)
 
 **Ejercicio 5.**
 
@@ -106,7 +106,7 @@ He tenido un problema, no admite mi tarjeta de credito.
 
 Como no logro resolver los problemas con amazon me doy de alta en azure, pero a la hora de solicitar una cuenta gratuita me pide igualmente la tarjeta de credito, asi que aunque tengo cuenta en azure no puedo usarla.  Doy el objetivo por cumplido.
 
-![imagen](https://github.com/mati3/Ejercicios-IV/tree/master/Imagenes/azure.png)
+![imagen](Imagenes/azure.png)
 
 **Ejercicio 6.**
 
@@ -114,4 +114,4 @@ Darse de alta en una web que permita hacer pruebas con alguno de los sistemas de
 
 Hemos elegido openstack por ser libre
 
-![imagen](https://github.com/mati3/Ejercicios-IV/tree/master/Imagenes/openstack.png)
+![imagen](Imagenes/openstack.png)
